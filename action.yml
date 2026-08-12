@@ -26,7 +26,7 @@ inputs:
     description: >-
       woke version, defaults to the latest `v0` version.
       Override to pin to a specific version
-    default: 'v0'
+    default: '6b1dc811643939a5b786f1f16bfaf7d717384e5b'
     required: false
 runs:
   using: 'composite'
